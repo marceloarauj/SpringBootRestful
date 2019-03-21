@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Marcelo
+Build-Jdk: 11.0.2
+Implementation-Title: ExemploRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.exprest
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/ExemploRest
+Created-By: Maven Integration for Eclipse
+
